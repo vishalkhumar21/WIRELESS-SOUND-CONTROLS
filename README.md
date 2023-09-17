@@ -4,7 +4,9 @@ COINCENT PROJECT
 
 #COINCENT-MAJOR PROJECT
 
-#NAME: VISHAL KHUMAR P D
+#NAME: VISHAL KHUMAR P D 
+
+#This project uses live detection and processing and also Data science principles
 
 import cv2
 
